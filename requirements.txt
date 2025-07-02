@@ -1,0 +1,7 @@
+torch==2.7.0
+tqdm
+datasets
+transformers<4.53.0
+qwen-vl-utils
+openai==1.93.0
+numpy==1.26.4
