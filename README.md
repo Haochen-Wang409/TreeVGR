@@ -80,8 +80,8 @@ This result is slightly different from the paper, as we mainly utlized [**VLMEva
 If you find Ross useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @article{wang2025traceable,
-  title={Reconstructive visual instruction tuning},
-  author={Haochen Wang and Xiangtai Li and Zilong Huang and Anran Wang and Jiacong Wang and Tao Zhang and Jiani Zheng and  Sule Bai and Zijian Kang and Jiashi Feng and Zhuochen Wang and Zhaoxiang Zhang},
+  title={Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology},
+  author={Haochen Wang and Xiangtai Li and Zilong Huang and Anran Wang and Jiacong Wang and Tao Zhang and Jiani Zheng and Sule Bai and Zijian Kang and Jiashi Feng and Zhuochen Wang and Zhaoxiang Zhang},
   journal={arXiv preprint arXiv:TBD},
   year={2025}
 }
