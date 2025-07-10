@@ -34,8 +34,8 @@
 
 ## Release
 
-- [2025/xx/xx] 🔥🔥🔥 **TreeBench** and **TreeVGR** have been supported by [**VLMEvalKit**](https://github.com/open-compass/VLMEvalKit)! 🔥🔥🔥
-- [2025/xx/xx] 🔥 **TreeBench** and **TreeVGR** have been released. Checkout the [paper](https://arxiv.org/pdf/TBD) for details.
+- [2025/07/11] 🔥🔥🔥 **TreeBench** and **TreeVGR** have been supported by [**VLMEvalKit**](https://github.com/open-compass/VLMEvalKit)! 🔥🔥🔥
+- [2025/07/11] 🔥 **TreeBench** and **TreeVGR** have been released. Check out the [paper](https://arxiv.org/pdf/TBD) for details.
 
 
 ## Installation
