@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2507.07999">
     <img src="https://img.shields.io/badge/arXiv-Tech Report-red"></a>
-    <a href="https://huggingface.co/datasets/HaochenWang/TreeBench">
+  <a href="https://huggingface.co/datasets/HaochenWang/TreeBench">
     <img src="https://img.shields.io/badge/TreeBench-HuggingFace-orange"></a>
   <a href="https://huggingface.co/HaochenWang/TreeVGR-7B">
-    <img src="https://img.shields.io/badge/TreeVGR-HuggingFace-orange"></a>
+    <img src="https://img.shields.io/badge/TreeVGR-HuggingFace-yellow"></a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-Apache2.0-blue"></a>
 </p>
@@ -74,6 +74,16 @@ Reasoning/Comparison 20/44=45.45
 ```
 This result is slightly different from the paper, as we mainly utlized [**VLMEvalKit**](https://github.com/open-compass/VLMEvalKit) for a more comprehensive evaluation.
 
+**Benchmark**
+- TreeBench: https://huggingface.co/datasets/HaochenWang/TreeBench
+
+**Checkpoints**
+- TreeVGR-7B: https://huggingface.co/HaochenWang/TreeVGR-7B
+- TreeVGR-7B-CI: https://huggingface.co/HaochenWang/TreeVGR-7B-CI
+
+**Training Datasets**
+- TreeVGR-RL-37K: https://huggingface.co/datasets/HaochenWang/TreeVGR-RL-37K
+- TreeVGR-SFT-35K: https://huggingface.co/datasets/HaochenWang/TreeVGR-SFT-35K
 
 ## Citation
 
