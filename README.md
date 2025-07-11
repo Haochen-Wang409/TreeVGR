@@ -1,7 +1,7 @@
 # Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology
 
 <p align="center">
-  <a href="https://arxiv.org/abs/TBD">
+  <a href="https://arxiv.org/abs/2507.07999">
     <img src="https://img.shields.io/badge/arXiv-Tech Report-red"></a>
     <a href="https://huggingface.co/datasets/HaochenWang/TreeBench">
     <img src="https://img.shields.io/badge/TreeBench-HuggingFace-orange"></a>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/License-Apache2.0-blue"></a>
 </p>
 
-**TL; DR**: We propose TreeBench, the first benchmark specially designed for evaluating "thinking with images" capabilities with *traceabe visual evidence*, and TreeVGR, the current state-of-the-art open-source visual grounded reasoning models.
+**TL; DR**: We propose TreeBench, the first benchmark specially designed for evaluating "thinking with images" capabilities with *traceable visual evidence*, and TreeVGR, the current state-of-the-art open-source visual grounded reasoning models.
 
 > **Abstract.** Models like OpenAI-o3 pioneer visual grounded reasoning by dynamically referencing visual regions,
 > just like human "thinking with images". However, no benchmark exists to evaluate these capabilities
@@ -52,7 +52,7 @@ This repo provides a simple local inference demo of our TreeVGR on TreeBench. Fi
 git clone https://github.com/Haochen-Wang409/TreeVGR
 cd TreeVGR
 ```
-and then, simpley run inference_treebench.py
+and then, simply run inference_treebench.py
 ```bash
 python3 inference_treebench.py
 ```
@@ -82,7 +82,7 @@ If you find Ross useful for your research and applications, please cite using th
 @article{wang2025traceable,
   title={Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology},
   author={Haochen Wang and Xiangtai Li and Zilong Huang and Anran Wang and Jiacong Wang and Tao Zhang and Jiani Zheng and Sule Bai and Zijian Kang and Jiashi Feng and Zhuochen Wang and Zhaoxiang Zhang},
-  journal={arXiv preprint arXiv:TBD},
+  journal={arXiv preprint arXiv:2507.07999},
   year={2025}
 }
 ```
