@@ -34,6 +34,7 @@
 
 ## Release
 
+- [2026/01/26] 🔥🔥🔥 **TreeBench** and **TreeVGR** have been accepted by **ICLR 2026**! 🔥🔥🔥
 - [2025/08/12] 🔥 **TreeBench** has been utilized by **GLM-4.5V**!
 - [2025/07/12] 🔥🔥🔥 **TreeBench** and **TreeVGR** have been supported by [**VLMEvalKit**](https://github.com/open-compass/VLMEvalKit)! 🔥🔥🔥
 - [2025/07/11] 🔥 **TreeBench** and **TreeVGR** have been released. Check out the [paper](https://arxiv.org/pdf/TBD) for details.
